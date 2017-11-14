@@ -15,6 +15,7 @@
       Ingat saya
     </label>
   </div>
-  <button type="submit" class="btn btn-primary">Masuk</button>
+ <!--  <button type="submit" class="btn btn-primary">Masuk</button> -->
+ <a class="btn btn-primary" href="<?php echo base_url() ?>login/home" role="button">Masuk</a>
 </form>
 </div> 

@@ -23,6 +23,22 @@
     <label for="exampleInputPassword1">Konfirmasi Password</label>
     <input type="password" class="form-control" id="exampleInputPassword2" placeholder="Masukkan password lagi untuk validasi">
   </div>
-  <button type="submit" class="btn btn-primary">Daftar</button>
+ <!--  <button type="submit" class="btn btn-primary">Daftar</button> -->
+ <a class="btn btn-primary" href="<?php echo base_url() ?>" role="button">Daftar</a>
+
 </form>
 </div> 
+
+<style type="text/css">
+  body {
+
+    background-image: url('../../assets/images/gre.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: lightgray;
+  
+  } 
+</style>
+  
+
+

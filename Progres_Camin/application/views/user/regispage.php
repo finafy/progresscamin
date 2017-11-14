@@ -1,4 +1,4 @@
-<style type="text/css">
+<!-- <style type="text/css">
 	body {
 
     background-image: url('../../assets/images/gre.jpg');
@@ -11,3 +11,4 @@
 	
 
 
+ -->

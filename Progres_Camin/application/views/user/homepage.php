@@ -8,14 +8,14 @@
 	<p> 
 		Pertama kalinya ke sini?
 	</p>
-	<a href="register/">Daftar sebagai anggota baru</a>
+	<a href="login/register/">Daftar sebagai anggota baru</a>
 
 </div>
 
 <style>
 	body {
 
-    background-image: url('../assets/images/gre.jpg');
+    background-image: url('assets/images/gre.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-color: lightgray;  

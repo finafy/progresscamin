@@ -31,9 +31,16 @@ class login extends CI_Controller {
 	{
 		$data['title'] = 'Registrasi member';
 		$this->load->view('template/header', $data);
-		$this->load->view('user/regispage');
+		// $this->load->view('user/regispage');
 		$this->load->view('template/regis'); 
 		$this->load->view('template/footer', $data);
+	}
+
+	public function home()
+	{
+		$data['title'] = 'Home';
+		$this->load->view('template/header', $data);
+		$this->load->view('user/dalem'); 
 	}
 
 }
