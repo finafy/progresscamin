@@ -7,7 +7,7 @@
     <!--Designerd by: http://bootstrapthemes.co-->
     <head>
         <meta charset="utf-8">
-        <title>Rage Freebie HTML5 Landing page</title>
+        <title>Sistem Progress Camin</title>
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="icon" type="image/png" href="favicon.ico">
@@ -77,41 +77,41 @@
 
                 <div class="container">    
                     <!-- Start Atribute Navigation -->
-                    <div class="attr-nav">
+                     <div class="attr-nav">
                         <ul>
                             <li class="dropdown">
-                                <a href="#" class="dropdown-toggle" data-toggle="dropdown" >
+                                <!-- <a href="#" class="dropdown-toggle" data-toggle="dropdown" >
                                     <i class="fa fa-shopping-bag"></i>
                                     <span class="badge">3</span>
-                                </a>
-                                <ul class="dropdown-menu cart-list">
+                                </a> -->
+                               <ul class="dropdown-menu cart-list">
                                     <li>
-                                        <a href="#" class="photo"><img src="assets/images/thumb01.jpg" class="cart-thumb" alt="" /></a>
-                                        <h6><a href="#">Delica omtantur </a></h6>
-                                        <p class="m-top-10">2x - <span class="price">$99.99</span></p>
+                                        <!-- <a href="#" class="photo"><img src="assets/images/thumb01.jpg" class="cart-thumb" alt="" /></a> -->
+                                        <!-- <h6><a href="#">Delica omtantur </a></h6> -->
+                                        <!-- <p class="m-top-10">2x - <span class="price">$99.99</span></p> -->
                                     </li>
                                     <li>
-                                        <a href="#" class="photo"><img src="assets/images/thumb01.jpg" class="cart-thumb" alt="" /></a>
-                                        <h6><a href="#">Delica omtantur </a></h6>
-                                        <p class="m-top-10">2x - <span class="price">$99.99</span></p>
+                                        <!-- <a href="#" class="photo"><img src="assets/images/thumb01.jpg" class="cart-thumb" alt="" /></a> -->
+                                        <!-- <h6><a href="#">Delica omtantur </a></h6> -->
+                                        <!-- <p class="m-top-10">2x - <span class="price">$99.99</span></p> -->
                                     </li>
                                     <li>
-                                        <a href="#" class="photo"><img src="assets/images/thumb01.jpg" class="cart-thumb" alt="" /></a>
-                                        <h6><a href="#">Delica omtantur </a></h6>
-                                        <p class="m-top-10">2x - <span class="price">$99.99</span></p>
+                                        <!-- <a href="#" class="photo"><img src="assets/images/thumb01.jpg" class="cart-thumb" alt="" /></a> -->
+                                        <!-- <h6><a href="#">Delica omtantur </a></h6> -->
+                                        <!-- <p class="m-top-10">2x - <span class="price">$99.99</span></p> -->
                                     </li>
-                                    <!---- More List ---->
-                                    <li class="total">
-                                        <span class="pull-right"><strong>Total</strong>: $0.00</span>
-                                        <a href="#" class="btn btn-cart">Cart</a>
+                                    <!-- More List --> 
+                                     <li class="total">
+                                        <<!-- span class="pull-right"><strong>Total</strong>: $0.00</span>
+                                        <a href="#" class="btn btn-cart">Cart</a> -->
                                     </li>
                                 </ul>
                             </li>
                             <li class="search"><a href="#"><i class="fa fa-search"></i></a></li>
                             <li class="side-menu"><a href="#"><i class="fa fa-bars"></i></a></li>
                         </ul>
-                    </div>        
-                    <!-- End Atribute Navigation -->
+                    </div>         
+                    <!--  End Atribute Navigation -->
 
                     <!-- Start Header Navigation -->
                     <div class="navbar-header">
@@ -457,7 +457,7 @@
 
 
             <!--Portfolio Section-->
-            <section id="portfolio" class="portfolio lightbg">
+<!--             <section id="portfolio" class="portfolio lightbg">
                 <div class="container">
                     <div class="row">
                         <div class="main_portfolio roomy-100">
@@ -558,9 +558,9 @@
                             </div>
 
                         </div>
-                    </div><!--End off row -->
-                </div><!--End off container -->
-            </section><!-- End off Portfolio section-->
+                    </div> --><!--End off row -->
+                <!-- </div> --><!--End off container -->
+           <!--  </section> --><!-- End off Portfolio section-->
 
 
             <!--Skill Sections-->
@@ -653,7 +653,7 @@
 
 
             <!--Testimonial Section-->
-            <section id="testimonial" class="testimonial fix">
+            <!-- <section id="testimonial" class="testimonial fix">
                 <div class="overlay"></div>
                 <div class="container">
                     <div class="row">
@@ -731,14 +731,14 @@
                                     </div>
                                 </div>
                             </div>
-                        </div>
-                    </div><!--End off row-->
-                </div><!--End off container -->
-            </section> <!--End off Testimonial section -->
+                        </div> -->
+                    <!-- </div> --><!--End off row-->
+                <!-- </div> --><!--End off container -->
+           <!--  </section> --> <!--End off Testimonial section -->
 
 
             <!--Pricing Section-->
-            <section id="pricing" class="pricing lightbg">
+            <!-- <section id="pricing" class="pricing lightbg">
                 <div class="container">
                     <div class="row">
                         <div class="main_pricing roomy-100">
@@ -776,9 +776,9 @@
                                         </div>
                                     </div>
                                 </div>
-                            </div><!-- End off col-md-4 -->
+                            </div> --><!-- End off col-md-4 -->
 
-                            <div class="col-md-4 col-sm-12">
+                            <!-- <div class="col-md-4 col-sm-12">
                                 <div class="pricing_item sm-m-top-30">
                                     <div class="pricing_top_border"></div>
                                     <div class="pricing_head p-top-30 p-bottom-100 text-center">
@@ -802,9 +802,9 @@
                                         </div>
                                     </div>
                                 </div>
-                            </div><!-- End off col-md-4 -->
+                            </div> --><!-- End off col-md-4 -->
 
-                            <div class="col-md-4 col-sm-12">
+                            <!-- <div class="col-md-4 col-sm-12">
                                 <div class="pricing_item sm-m-top-30">
                                     <div class="pricing_head p-top-30 p-bottom-100 text-center">
                                         <h3 class="text-uppercase">bUSINESS</h3>
@@ -827,12 +827,12 @@
                                         </div>
                                     </div>
                                 </div>
-                            </div><!-- End off col-md-4 -->
+                            </div> --><!-- End off col-md-4 -->
 
-                        </div>
-                    </div><!--End off row-->
-                </div><!--End off container -->
-            </section> <!--End off Pricing section -->
+                        <!-- </div> -->
+                    <!-- </div> --><!--End off row-->
+                <!-- </div> --><!--End off container -->
+            <!-- </section> --> <!--End off Pricing section -->
 
 
 
