@@ -179,12 +179,12 @@
                     <div class="row">
                         <div class="main_home">
                             <div class="home_text">
-                                <h1 class="text-white">WE’RE <br /> CREATIVE DESIGNERS!</h1>
+                                <h1 class="text-white">SISTEM <br /> PROGRESS CAMIN</h1>
                             </div>
 
                             <div class="home_btns m-top-40">
-                                <a href="https://bootstrapthemes.co" target="_blank" class="btn btn-primary m-top-20">GET STARTED</a>
-                                <a href="https://bootstrapthemes.co" target="_blank" class="btn btn-default m-top-20">DOWNLOAD NOW</a>
+                                <a href="https://bootstrapthemes.co" target="_blank" class="btn btn-primary m-top-20">SIGN UP</a>
+                                <a href="https://bootstrapthemes.co" target="_blank" class="btn btn-default m-top-20">LOG IN</a>
                             </div>
 
                         </div>
@@ -980,7 +980,7 @@
                             <div class="col-md-4">
                                 <div class="rage_widget">
                                     <div class="widget_head">
-                                        <h3 class="text-white">RAGE</h3>
+                                        <h3 class="text-white">SPC</h3>
                                         <div class="separator_small"></div>
                                     </div>
                                     <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, 
