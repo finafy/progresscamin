@@ -132,10 +132,10 @@
                         <ul class="nav navbar-nav navbar-right" data-in="fadeInDown" data-out="fadeOutUp">
                             <li><a href="#hello">Hello</a></li>                    
                             <li><a href="#about">About</a></li>                    
-                            <li><a href="#service">Services</a></li>                    
+                            <!-- <li><a href="#service">Services</a></li>                    
                             <li><a href="#portfolio">Portfolio</a></li>                    
                             <li><a href="#pricing">Pricing</a></li>                    
-                            <li><a href="#blog">Blog</a></li>                    
+                            <li><a href="#blog">Blog</a></li>  -->                  
                             <li><a href="#contact">Contact</a></li>  
                         </ul>
                     </div><!-- /.navbar-collapse -->
@@ -149,13 +149,13 @@
                         <h6 class="title">Custom Pages</h6>
                         <ul class="link">
                             <li><a href="#">About</a></li>
-                            <li><a href="#">Services</a></li>
+                            <!-- <li><a href="#">Services</a></li>
                             <li><a href="#">Blog</a></li>
-                            <li><a href="#">Portfolio</a></li>
+                            <li><a href="#">Portfolio</a></li> -->
                             <li><a href="#">Contact</a></li>
                         </ul>
                     </div>
-                    <div class="widget">
+                    <!-- <div class="widget">
                         <h6 class="title">Additional Links</h6>
                         <ul class="link">
                             <li><a href="#">Retina Homepage</a></li>
@@ -164,7 +164,7 @@
                             <li><a href="#">Shortcode Central</a></li>
                             <li><a href="#">Ultimate Font Collection</a></li>
                         </ul>
-                    </div>
+                    </div> -->
                 </div>
                 <!-- End Side Menu -->
 
@@ -200,29 +200,22 @@
                         <div class="main_about">
                             <div class="col-md-6">
                                 <div class="about_content">
-                                    <h2>ABOUT US</h2>
+                                    <h2>ABOUT</h2>
                                     <div class="separator_left"></div>
 
-                                    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, 
-                                        sed diam nonummy nibh euismod tincidunt ut laoreet dolore 
-                                        magna aliquam erat volutpat. Ut wisi enim ad minim veniam, 
-                                        quis nostrud exerci tation ullamcorper suscipit lobortis 
-                                        nisl ut aliquip ex ea commodo consequat. Lorem ipsum dolor
-                                        sit amet, consectetuer adipiscing elit, sed diam nonummy nibh
-                                        euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
-                                        Ut wisi enim ad minim veniam, quis nostrud exerci tation 
-                                        ullamcorper suscipit lobortis nisl ut aliquip 
-                                        ex ea commodo consequat. </p>
+                                    <p>Sistem ini merupakan sistem untuk mendata dan memantau
+                                    progress pendaftaran camin, serta memberikan informasi mengenai 
+                                    penugasan yang harus dikerjakan. </p>
 
                                     <div class="about_btns m-top-40">
-                                        <a href="" class="btn btn-primary">DOWNLOAD NOW</a>
+                                        <a href="" class="btn btn-primary">SUBMIT</a>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-md-6">
                                 <div class="about_accordion wow fadeIn">
                                     <div id="faq_main_content" class="faq_main_content">
-                                        <h6><i class="fa fa-angle-right"></i> UNIQUE DESIGN </h6>
+                                        <h6><i class="fa fa-angle-right"></i> PENUGASAN </h6>
                                         <div>
                                             <div class="content">
                                                 <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit,
@@ -232,7 +225,7 @@
                                             </div>
                                         </div> <!-- End off accordion item-1 -->
 
-                                        <h6 class="open"><i class="fa fa-angle-right"></i> EXPERIENCE TEAM</h6>
+                                        <h6 class="open"><i class="fa fa-angle-right"></i> PROGRESS </h6>
                                         <div class="open">
                                             <div class="content">
                                                 <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit,
@@ -241,23 +234,23 @@
                                             </div>
                                         </div> <!-- End off accordion item-2 -->
 
-                                        <h6> <i class="fa fa-angle-right"></i> GREAT SERVICE </h6>
+                                        <!-- <h6> <i class="fa fa-angle-right"></i> GREAT SERVICE </h6>
                                         <div>
                                             <div class="content">
                                                 <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit,
                                                     sed diam nonummy nibh euismod tincidunt ut laoreet dolore 
                                                     magna aliquam erat volutpat. Ut wisi enim ad minim veniam, </p>
                                             </div>
-                                        </div> <!-- End off accordion item-3 -->
+                                        </div>  --><!-- End off accordion item-3 -->
 
-                                        <h6><i class="fa fa-angle-right"></i> FREE UPDATES </h6>
+                                       <!--  <h6><i class="fa fa-angle-right"></i> FREE UPDATES </h6>
                                         <div>
                                             <div class="content">
                                                 <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit,
                                                     sed diam nonummy nibh euismod tincidunt ut laoreet dolore 
                                                     magna aliquam erat volutpat. Ut wisi enim ad minim veniam, </p>
                                             </div>
-                                        </div> <!-- End off accordion item-4 -->
+                                        </div>  --><!-- End off accordion item-4 -->
                                     </div>
                                 </div>
                             </div>
@@ -271,7 +264,7 @@
                 <hr />
                 <br />
                 <br />
-                <div class="container">
+                <!-- <div class="container">
                     <div class="row">
                         <div class="about_bottom_content">
                             <div class="col-md-4">
@@ -313,24 +306,24 @@
                                         magna diam aliquafm erat voluitpati. </p>
                                 </div>
                             </div>
-                        </div>
-                    </div><!--End off row-->
-                </div><!--End off container -->
-            </section> <!--End off About section -->
+                        </div> -->
+                    <!-- </div> --><!--End off row-->
+                <!-- </div> --><!--End off container -->
+            <!-- </section> --> <!--End off About section -->
 
 
             <!--Video section-->
-            <section id="video" class="video">
+            <!-- <section id="video" class="video">
                 <div class="overlay"></div>
                 <div class="main_video roomy-100 m-top-100 m-bottom-100 text-center">
                     <div class="video_text text-center">
                         <a href="http://www.youtube.com/watch?v=7HKoqNJtMTQ" class="video-link"><span class="fa fa-play"></span></a>
                     </div>
                 </div>
-            </section><!--End off video section -->
+            </section> --><!--End off video section -->
 
 
-            <div class="container">
+            <!-- <div class="container">
                 <div class="row">
                     <div class="main_featured m-top-100">
                         <div class="col-sm-12">
@@ -344,7 +337,7 @@
                         </div>
                     </div>
                 </div>
-            </div>
+            </div> -->
 
             <div class="featured_slider">
                 <div>
@@ -433,7 +426,7 @@
 
 
             <!--Impress section-->
-            <section id="impress" class="impress roomy-100">
+            <!-- <section id="impress" class="impress roomy-100">
                 <div class="overlay"></div>
                 <div class="container">
                     <div class="row">
@@ -449,9 +442,9 @@
                                 </div>
                             </div>
                         </div>
-                    </div><!--End off row -->
-                </div><!--End off container -->
-            </section><!-- End off Impress section-->
+                    </div> --><!--End off row -->
+                <!-- </div> --><!--End off container -->
+           <!--  </section> --><!-- End off Impress section-->
 
 
 
@@ -878,7 +871,7 @@
 
 
             <!--Subscribe section-->
-            <section id="subscribe" class="subscribe roomy-100 fix">
+           <!--  <section id="subscribe" class="subscribe roomy-100 fix">
                 <div class="overlay"></div>
                 <div class="container">
                     <div class="row">
@@ -901,14 +894,14 @@
                             </div>
 
                         </div>
-                    </div><!--End off row -->
-                </div><!--End off container -->
-            </section><!-- End off Impress section-->
+                    </div> --><!--End off row -->
+                <!-- </div> --><!--End off container -->
+            <!-- </section> --><!-- End off Impress section-->
 
 
 
             <!--Blog Section-->
-            <section id="blog" class="blog">
+           <!--  <section id="blog" class="blog">
                 <div class="container">
                     <div class="row">
                         <div class="main_blog text-center roomy-100">
@@ -955,9 +948,9 @@
                                 </div>
                             </div>
                         </div>
-                    </div><!--End off row -->
-                </div><!--End off container -->
-            </section><!-- End off Blog section-->
+                    </div> --><!--End off row -->
+                <!-- </div> --><!--End off container -->
+            <!-- </section> --><!-- End off Blog section-->
 
 
 
@@ -1045,11 +1038,12 @@
                     <div class="row">
                         <div class="main_footer text-center p-top-40 p-bottom-30">
                             <p class="wow fadeInRight" data-wow-duration="1s">
-                                Made with 
+                                Sistem Progress Camin. 2017. RPL.
+                                <!-- Made with 
                                 <i class="fa fa-heart"></i>
                                 by 
                                 <a target="_blank" href="https://bootstrapthemes.co">Bootstrap Themes</a> 
-                                2016. All Rights Reserved
+                                2016. All Rights Reserved -->
                             </p>
                         </div>
                     </div>
@@ -1079,7 +1073,7 @@
             <script src="http://maps.google.com/maps/api/js?key=AIzaSyD_tAQD36pKp9v4at5AnpGbvBUsLCOSJx8"></script>
             <script src="assets/js/gmaps.min.js"></script>
 
-            <script>
+           <!--  <script>
                             function showmap() {
                                 var mapOptions = {
                                     zoom: 8,
@@ -1092,10 +1086,7 @@
                                 $('.maps_text h3').hide();
                             }
 
-            </script>
-
-
-
+            </script> -->
 
 
             <script src="assets/js/plugins.js"></script>
