@@ -3,7 +3,7 @@
 <head>
 <title>Sistem Progress Camin</title>
 <!-- Custom Theme files -->
-<link href="templog/css/style.css" rel="stylesheet" type="text/css" media="all"/>
+<link href="<?php echo base_url()?>templog/css/style.css" rel="stylesheet" type="text/css" media="all"/>
 <!-- Custom Theme files -->
 <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.1/jquery.min.js"></script>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -48,7 +48,7 @@
     <div class="clear"> </div>
   </div>
     <div class="login-bwn">
-     <input type="submit" value="Log in"/>
+     <input type="submit"  value="Log in"/>
   </div>
   </form>
   <!-- <div class="forgot">

@@ -131,7 +131,7 @@
                     <div class="collapse navbar-collapse" id="navbar-menu">
                         <ul class="nav navbar-nav navbar-right" data-in="fadeInDown" data-out="fadeOutUp">
                             <li><a href="#hello">Hello</a></li>                    
-                            <li><a href="#about">About</a></li>                    
+                            <li><a href="#about">About</a></li>                     
                             <!-- <li><a href="#service">Services</a></li>                    
                             <li><a href="#portfolio">Portfolio</a></li>                    
                             <li><a href="#pricing">Pricing</a></li>                    
@@ -183,8 +183,8 @@
                             </div>
 
                             <div class="home_btns m-top-40">
-                                <a href="application/views/formhehe.php"  class="btn btn-primary m-top-20">SIGN UP</a>
-                                <a href="application/views/formhehe.php"  class="btn btn-default m-top-20">LOG IN</a>
+                                <a href="<?php echo base_url()?>welcome/regis"  class="btn btn-primary m-top-20">SIGN UP</a>
+                                <a href="<?php echo base_url()?>welcome/login"  class="btn btn-default m-top-20">LOG IN</a>
                             </div>
 
                         </div>
