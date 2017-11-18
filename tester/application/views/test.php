@@ -183,8 +183,8 @@
                             </div>
 
                             <div class="home_btns m-top-40">
-                                <a href="https://bootstrapthemes.co" target="_blank" class="btn btn-primary m-top-20">SIGN UP</a>
-                                <a href="https://bootstrapthemes.co" target="_blank" class="btn btn-default m-top-20">LOG IN</a>
+                                <a href="application/views/formhehe.php"  class="btn btn-primary m-top-20">SIGN UP</a>
+                                <a href="application/views/formhehe.php"  class="btn btn-default m-top-20">LOG IN</a>
                             </div>
 
                         </div>
