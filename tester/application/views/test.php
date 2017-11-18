@@ -120,8 +120,8 @@
                         </button>
                         <a class="navbar-brand" href="#brand">
 
-                            <img src="assets/images/logo.png" class="logo logo-display m-top-10" alt="">
-                            <img src="assets/images/logo.jpg" class="logo logo-scrolled" alt="">
+                            <img src="assets/images/logospc.png" class="logo logo-display m-top-10" alt="">
+                            <img src="assets/images/logospc.jpg" class="logo logo-scrolled" alt="">
 
                         </a>
                     </div>
@@ -225,23 +225,23 @@
                                             </div>
                                         </div> <!-- End off accordion item-1 -->
 
-                                        <h6 class="open"><i class="fa fa-angle-right"></i> PROGRESS </h6>
+                                        <!-- <h6 class="open"><i class="fa fa-angle-right"></i> PROGRESS </h6>
                                         <div class="open">
                                             <div class="content">
                                                 <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit,
                                                     sed diam nonummy nibh euismod tincidunt ut laoreet dolore 
                                                     magna aliquam erat volutpat. Ut wisi enim ad minim veniam, </p>
                                             </div>
-                                        </div> <!-- End off accordion item-2 -->
+                                        </div> --> <!-- End off accordion item-2 -->
 
-                                        <!-- <h6> <i class="fa fa-angle-right"></i> GREAT SERVICE </h6>
+                                        <h6> <i class="fa fa-angle-right"></i> PROGRESS </h6>
                                         <div>
                                             <div class="content">
                                                 <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit,
                                                     sed diam nonummy nibh euismod tincidunt ut laoreet dolore 
                                                     magna aliquam erat volutpat. Ut wisi enim ad minim veniam, </p>
                                             </div>
-                                        </div>  --><!-- End off accordion item-3 -->
+                                        </div>  <!-- End off accordion item-3
 
                                        <!--  <h6><i class="fa fa-angle-right"></i> FREE UPDATES </h6>
                                         <div>
@@ -976,11 +976,9 @@
                                         <h3 class="text-white">SPC</h3>
                                         <div class="separator_small"></div>
                                     </div>
-                                    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, 
-                                        sed diam nonummy nibh euismod tincidunt ut laoreet dolore 
-                                        magna aliquam erat volutpat. Ut wisi enim ad minim veniam, 
-                                        quis nostrud exerci tation ullamcorper suscipit lobortis nisl
-                                        ut aliquip ex ea commodo consequat. </p>
+                                    <p>Sistem ini merupakan sistem untuk mendata dan memantau
+                                    progress pendaftaran camin, serta memberikan informasi mengenai 
+                                    penugasan yang harus dikerjakan. </p>
 
                                     <div class="widget_socail m-top-30">
                                         <ul class="list-inline">
