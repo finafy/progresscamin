@@ -10,7 +10,7 @@
         <title>Sistem Progress Camin</title>
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link rel="icon" type="image/png" href="favicon.ico">
+        <link rel="icon" type="image/png" href="<?php echo base_url()?>assets/kat.ico">
 
 
         <!--Google Font link-->

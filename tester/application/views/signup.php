@@ -5,9 +5,8 @@
   <title>Sistem Progress Camin</title>
   <meta name="viewport" content="width=device-width, initial-scale=1"><link href='https://fonts.googleapis.com/css?family=Roboto:400,700' rel='stylesheet' type='text/css'>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
-
-  
-      <link rel="stylesheet" href="<?php echo base_url()?>tempup/css/style.css">
+  <link rel="stylesheet" href="<?php echo base_url()?>tempup/css/style.css">
+  <link rel="icon" type="image/png" href="<?php echo base_url()?>assets/kat.ico">
 
   
 </head>
