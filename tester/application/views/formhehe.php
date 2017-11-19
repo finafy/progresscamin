@@ -78,7 +78,7 @@
         <div class="clear"> </div>
     </div> -->
     <h4>Don,t have an Account? <!-- <a href="#"> Register Now!</a> --></h4>
-    <div class="reg-bwn"><a href="#">REGISTER</a></div>
+    <div class="reg-bwn"><a href="<?php echo base_url()?>welcome/regis">REGISTER</a></div>
   </div>
   </div>
 </div>

@@ -15,7 +15,7 @@ class Welcome extends CI_Controller {
 
 	public function regis()
 	{
-		$this->load->view('form_daftar');
+		$this->load->view('signup');
 	}
 	
 }
