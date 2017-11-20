@@ -19,14 +19,14 @@
         <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet">
 
 
-        <link rel="stylesheet" href="assets/css/slick.css">
-        <link rel="stylesheet" href="assets/css/slick-theme.css">
-        <link rel="stylesheet" href="assets/css/animate.css">
-        <link rel="stylesheet" href="assets/css/fonticons.css">
-        <link rel="stylesheet" href="assets/css/font-awesome.min.css">
-        <link rel="stylesheet" href="assets/css/bootstrap.css">
-        <link rel="stylesheet" href="assets/css/magnific-popup.css">
-        <link rel="stylesheet" href="assets/css/bootsnav.css">
+        <link rel="stylesheet" href="<?php echo base_url()?>assets/css/slick.css">
+        <link rel="stylesheet" href="<?php echo base_url()?>assets/css/slick-theme.css">
+        <link rel="stylesheet" href="<?php echo base_url()?>assets/css/animate.css">
+        <link rel="stylesheet" href="<?php echo base_url()?>assets/css/fonticons.css">
+        <link rel="stylesheet" href="<?php echo base_url()?>assets/css/font-awesome.min.css">
+        <link rel="stylesheet" href="<?php echo base_url()?>assets/css/bootstrap.css">
+        <link rel="stylesheet" href="<?php echo base_url()?>assets/css/magnific-popup.css">
+        <link rel="stylesheet" href="<?php echo base_url()?>assets/css/bootsnav.css">
 
 
         <!--For Plugins external css-->
@@ -107,8 +107,8 @@
                                     </li>
                                 </ul>
                             </li>
-                            <li class="search"><a href="#"><i class="fa fa-search"></i></a></li>
-                            <li class="side-menu"><a href="#"><i class="fa fa-bars"></i></a></li>
+<!--                             <li class="search"><a href="#"><i class="fa fa-search"></i></a></li>
+                            <li class="side-menu"><a href="#"><i class="fa fa-bars"></i></a></li> -->
                         </ul>
                     </div>         
                     <!--  End Atribute Navigation -->
@@ -130,8 +130,8 @@
                     <!-- Collect the nav links, forms, and other content for toggling -->
                     <div class="collapse navbar-collapse" id="navbar-menu">
                         <ul class="nav navbar-nav navbar-right" data-in="fadeInDown" data-out="fadeOutUp">
-                            <li><a href="#hello">Hello</a></li>                    
-                            <li><a href="#about">About</a></li>                     
+                            <li><a href="#hello">Home</a></li>                    
+                            <li><a href="#about">Dashboard</a></li>                     
                             <!-- <li><a href="#service">Services</a></li>                    
                             <li><a href="#portfolio">Portfolio</a></li>                    
                             <li><a href="#pricing">Pricing</a></li>                    
@@ -143,18 +143,18 @@
 
 
                 <!-- Start Side Menu -->
-                <div class="side">
+<!--                 <div class="side">
                     <a href="#" class="close-side"><i class="fa fa-times"></i></a>
                     <div class="widget">
                         <h6 class="title">Custom Pages</h6>
                         <ul class="link">
-                            <li><a href="#">About</a></li>
+                            <li><a href="#">About</a></li> -->
                             <!-- <li><a href="#">Services</a></li>
                             <li><a href="#">Blog</a></li>
                             <li><a href="#">Portfolio</a></li> -->
-                            <li><a href="#">Contact</a></li>
+<!--                             <li><a href="#">Contact</a></li>
                         </ul>
-                    </div>
+                    </div> -->
                     <!-- <div class="widget">
                         <h6 class="title">Additional Links</h6>
                         <ul class="link">
@@ -182,10 +182,10 @@
                                 <h1 class="text-white">SISTEM <br /> PROGRESS CAMIN</h1>
                             </div>
 
-                            <div class="home_btns m-top-40">
+<!--                             <div class="home_btns m-top-40">
                                 <a href="<?php echo base_url()?>welcome/regis"  class="btn btn-primary m-top-20">SIGN UP</a>
                                 <a href="<?php echo base_url()?>welcome/login"  class="btn btn-default m-top-20">LOG IN</a>
-                            </div>
+                            </div> -->
 
                         </div>
                     </div><!--End off row-->
@@ -194,7 +194,7 @@
 
 
             <!--About Sections-->
-            <!-- <section id="about" class="about roomy-100">
+            <section id="about" class="about roomy-100">
                 <div class="container">
                     <div class="row">
                         <div class="main_about">
@@ -218,12 +218,10 @@
                                         <h6><i class="fa fa-angle-right"></i> PENUGASAN </h6>
                                         <div>
                                             <div class="content">
-                                                <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit,
-                                                    sed diam nonummy nibh euismod tincidunt ut laoreet dolore 
-                                                    magna aliquam erat volutpat. Ut wisi enim ad minim veniam, </p>
+                                                <p>Penugasan 1 </p>
 
                                             </div>
-                                        </div> --> <!-- End off accordion item-1 -->
+                                        </div> <!-- End off accordion item-1 -->
 
                                         <!-- <h6 class="open"><i class="fa fa-angle-right"></i> PROGRESS </h6>
                                         <div class="open">
@@ -234,14 +232,12 @@
                                             </div>
                                         </div> --> <!-- End off accordion item-2 -->
 
- <!--                                        <h6> <i class="fa fa-angle-right"></i> PROGRESS </h6>
+                                        <h6> <i class="fa fa-angle-right"></i> PROGRESS </h6>
                                         <div>
                                             <div class="content">
-                                                <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit,
-                                                    sed diam nonummy nibh euismod tincidunt ut laoreet dolore 
-                                                    magna aliquam erat volutpat. Ut wisi enim ad minim veniam, </p>
+                                                <p>Penugasan 1 </p>
                                             </div>
-                                        </div>  --> <!-- End off accordion item-3
+                                        </div>  <!-- End off accordion item-3
 
                                        <!--  <h6><i class="fa fa-angle-right"></i> FREE UPDATES </h6>
                                         <div>
@@ -1055,21 +1051,21 @@
 
             <!-- JS includes -->
 
-            <script src="assets/js/vendor/jquery-1.11.2.min.js"></script>
-            <script src="assets/js/vendor/bootstrap.min.js"></script>
+            <script src="<?php echo base_url()?>assets/js/vendor/jquery-1.11.2.min.js"></script>
+            <script src="<?php echo base_url()?>assets/js/vendor/bootstrap.min.js"></script>
 
-            <script src="assets/js/jquery.magnific-popup.js"></script>
-            <script src="assets/js/jquery.easing.1.3.js"></script>
-            <script src="assets/js/slick.min.js"></script>
-            <script src="assets/js/jquery.collapse.js"></script>
-            <script src="assets/js/bootsnav.js"></script>
+            <script src="<?php echo base_url()?>assets/js/jquery.magnific-popup.js"></script>
+            <script src="<?php echo base_url()?>assets/js/jquery.easing.1.3.js"></script>
+            <script src="<?php echo base_url()?>assets/js/slick.min.js"></script>
+            <script src="<?php echo base_url()?>assets/js/jquery.collapse.js"></script>
+            <script src="<?php echo base_url()?>assets/js/bootsnav.js"></script>
 
 
             <!-- paradise slider js -->
 
 
             <script src="http://maps.google.com/maps/api/js?key=AIzaSyD_tAQD36pKp9v4at5AnpGbvBUsLCOSJx8"></script>
-            <script src="assets/js/gmaps.min.js"></script>
+            <script src="<?php echo base_url()?>assets/js/gmaps.min.js"></script>
 
            <!--  <script>
                             function showmap() {
@@ -1087,8 +1083,8 @@
             </script> -->
 
 
-            <script src="assets/js/plugins.js"></script>
-            <script src="assets/js/main.js"></script>
+            <script src="<?php echo base_url()?>assets/js/plugins.js"></script>
+            <script src="<?php echo base_url()?>assets/js/main.js"></script>
 
     </body>
 </html>

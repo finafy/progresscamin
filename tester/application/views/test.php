@@ -107,8 +107,8 @@
                                     </li>
                                 </ul>
                             </li>
-                            <li class="search"><a href="#"><i class="fa fa-search"></i></a></li>
-                            <li class="side-menu"><a href="#"><i class="fa fa-bars"></i></a></li>
+<!--                             <li class="search"><a href="#"><i class="fa fa-search"></i></a></li>
+                            <li class="side-menu"><a href="#"><i class="fa fa-bars"></i></a></li> -->
                         </ul>
                     </div>         
                     <!--  End Atribute Navigation -->
@@ -143,18 +143,18 @@
 
 
                 <!-- Start Side Menu -->
-                <div class="side">
+<!--                 <div class="side">
                     <a href="#" class="close-side"><i class="fa fa-times"></i></a>
                     <div class="widget">
                         <h6 class="title">Custom Pages</h6>
                         <ul class="link">
-                            <li><a href="#">About</a></li>
+                            <li><a href="#">About</a></li> -->
                             <!-- <li><a href="#">Services</a></li>
                             <li><a href="#">Blog</a></li>
                             <li><a href="#">Portfolio</a></li> -->
-                            <li><a href="#">Contact</a></li>
+<!--                             <li><a href="#">Contact</a></li>
                         </ul>
-                    </div>
+                    </div> -->
                     <!-- <div class="widget">
                         <h6 class="title">Additional Links</h6>
                         <ul class="link">

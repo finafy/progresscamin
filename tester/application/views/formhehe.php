@@ -34,7 +34,8 @@
 <h1>Sistem Progress Camin</h1>
 <div class="login">
   <h2>Login</h2>
-  <form action="application/views/test.php" method="post">
+ <!--  <a href="<?php echo base_url()?>welcome/index">Login</a> -->
+  <form action="<?php echo base_url()?>welcome/coba" method="post">
     <input type="text" class="user active" value="User name" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'User name';}"/>
     <input type="password" class="lock active" value="Password" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Password';}"/>
     <div class="forgot">

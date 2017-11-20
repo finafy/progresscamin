@@ -42,7 +42,7 @@
             <input type="password" placeholder="Password" class="form__input" />
         </div>
         
-        <button class="btn" type="button">Register</button>
+        <button class="btn" type="button"><a href="<?php echo base_url()?>welcome/coba"/a>Register</button>
     </form>
 </div>
   <script src='http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
