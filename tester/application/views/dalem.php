@@ -131,7 +131,7 @@
                     <div class="collapse navbar-collapse" id="navbar-menu">
                         <ul class="nav navbar-nav navbar-right" data-in="fadeInDown" data-out="fadeOutUp">
                             <li><a href="#hello">Hello</a></li>                    
-<!--                             <li><a href="#about">About</a></li>     -->                 
+                            <li><a href="#about">About</a></li>                     
                             <!-- <li><a href="#service">Services</a></li>                    
                             <li><a href="#portfolio">Portfolio</a></li>                    
                             <li><a href="#pricing">Pricing</a></li>                    

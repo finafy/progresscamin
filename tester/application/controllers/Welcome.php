@@ -17,5 +17,10 @@ class Welcome extends CI_Controller {
 	{
 		$this->load->view('signup');
 	}
+
+	public function coba()
+	{
+		$this->load->view('dalem');
+	}
 	
 }

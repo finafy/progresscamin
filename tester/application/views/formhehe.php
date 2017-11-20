@@ -49,7 +49,6 @@
   </div>
     <div class="login-bwn">
      <input type="submit"  value="Log in"/>
-     
   </div>
   </form>
   <!-- <div class="forgot">
@@ -66,18 +65,18 @@
      <input type="submit" value="Log in" href="application/views/test.php"/>
   </div> -->
   <div class="login-bottom">
-  <!--   <h3>Login</h3>
-    <p>With your social media account</p> -->
-   <div class="social-icons">
-    <!-- <div class="button">
-      <a class="tw" href="#"> <i class="anc-tw"> </i> <span>Twitter</span>
+<!--     <h3>Login</h3>
+    <p>With your social media account</p>
+   <div class="social-icons"> -->
+    <div class="button">
+<!--       <a class="tw" href="#"> <i class="anc-tw"> </i> <span>Twitter</span>
       <div class="clear"> </div></a>
-      <a class="fa" href="#"> <i class="anc-fa"> </i> <span>Facebook</span>
+      <a class="fa" href="#"> <i class="anc-fa"> </i> <span>Log In</span>
       <div class="clear"> </div></a>
       <a class="go" href="#"><i class="anc-go"> </i><span>Google+</span>
-      <div class="clear"> </div></a>
+      <div class="clear"> </div></a> -->
         <div class="clear"> </div>
-    </div> -->
+    </div>
     <h4>Don,t have an Account? <!-- <a href="#"> Register Now!</a> --></h4>
     <div class="reg-bwn"><a href="<?php echo base_url()?>welcome/regis">REGISTER</a></div>
   </div>
