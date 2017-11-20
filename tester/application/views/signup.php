@@ -27,6 +27,10 @@
             <input type="email" placeholder="Email" class="form__input" />
         </div>
 
+         <div class="form__group">
+            <input type="NRP" placeholder="NRP" class="form__input" />
+        </div>
+
         <div class="form__group">
             <select id="status" name="status" class="form__input">
               <option value="admin">Calon Admin</option>
