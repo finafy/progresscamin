@@ -33,13 +33,13 @@
         <!--<link rel="stylesheet" href="assets/css/plugins.css" />-->
 
         <!--Theme custom css -->
-        <link rel="stylesheet" href="assets/css/style.css">
+        <link rel="stylesheet" href="<?php echo base_url()?>assets/css/style.css">
         <!--<link rel="stylesheet" href="assets/css/colors/maron.css">-->
 
         <!--Theme Responsive css-->
-        <link rel="stylesheet" href="assets/css/responsive.css" />
+        <link rel="stylesheet" href="<?php echo base_url()?>assets/css/responsive.css" />
 
-        <script src="assets/js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"></script>
+        <script src="<?php echo base_url()?>assets/js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"></script>
     </head>
 
     <body data-spy="scroll" data-target=".navbar-collapse">
@@ -120,8 +120,8 @@
                         </button>
                         <a class="navbar-brand" href="#brand">
 
-                            <img src="assets/images/logospc.png" class="logo logo-display m-top-10" alt="">
-                            <img src="assets/images/logospc.jpg" class="logo logo-scrolled" alt="">
+                            <img src="<?php echo base_url()?>assets/images/logospc.png" class="logo logo-display m-top-10" alt="">
+                            <img src="<?php echo base_url()?>assets/images/logospc.jpg" class="logo logo-scrolled" alt="">
 
                         </a>
                     </div>
@@ -200,7 +200,7 @@
                         <div class="main_about">
                             <div class="col-md-6">
                                 <div class="about_content">
-                                    <h2>ABOUT</h2>
+                                    <h2>PENUGASAN</h2>
                                     <div class="separator_left"></div>
 
                                     <p>Sistem ini merupakan sistem untuk mendata dan memantau
@@ -215,10 +215,10 @@
                             <div class="col-md-6">
                                 <div class="about_accordion wow fadeIn">
                                     <div id="faq_main_content" class="faq_main_content">
-                                        <h6><i class="fa fa-angle-right"></i> PENUGASAN </h6>
+                                        <h6><i class="fa fa-angle-right"></i> PENUGASAN 1</h6>
                                         <div>
                                             <div class="content">
-                                                <p>Penugasan 1 </p>
+                                                <p>Membuat PDM dan fungsional dari sistem yang dipilih</p>
 
                                             </div>
                                         </div> <!-- End off accordion item-1 -->
@@ -232,10 +232,10 @@
                                             </div>
                                         </div> --> <!-- End off accordion item-2 -->
 
-                                        <h6> <i class="fa fa-angle-right"></i> PROGRESS </h6>
+                                        <h6> <i class="fa fa-angle-right"></i> PENUGASAN 2</h6>
                                         <div>
                                             <div class="content">
-                                                <p>Penugasan 1 </p>
+                                                <p>Membuat Front End dari sistem yang telah ditentukan.</p>
                                             </div>
                                         </div>  <!-- End off accordion item-3
 
