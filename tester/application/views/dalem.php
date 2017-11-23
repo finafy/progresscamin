@@ -962,7 +962,7 @@
 
 
             <!--Contact Us Section-->
-            <section id="contact" class="contact bg-mega fix">
+ <!--            <section id="contact" class="contact bg-mega fix">
                 <div class="container">
                     <div class="row">
                         <div class="main_contact roomy-100 text-white">
@@ -977,14 +977,14 @@
                                     penugasan yang harus dikerjakan. </p>
 
                                     <div class="widget_socail m-top-30">
-                                        <ul class="list-inline">
+     -->                                   <!--  <ul class="list-inline">
                                             <li><a href=""><i class="fa fa-facebook"></i></a></li>
                                             <li><a href=""><i class="fa fa-twitter"></i></a></li>
                                             <li><a href=""><i class="fa fa-linkedin"></i></a></li>
                                             <li><a href=""><i class="fa fa-vimeo"></i></a></li>
                                             <li><a href=""><i class="fa fa-instagram"></i></a></li>
-                                        </ul>
-                                    </div>
+                                        </ul> -->
+<!--                                     </div>
                                 </div>
                             </div>
                             <div class="col-md-8 sm-m-top-30">
@@ -1016,9 +1016,9 @@
                                 </form>
                             </div>
                         </div>
-                    </div><!--End off row -->
-                </div><!--End off container -->
-            </section><!--End off Contact Section-->
+                    </div> --><!--End off row -->
+                <!-- </div> --><!--End off container -->
+            <!-- </section> --><!--End off Contact Section-->
 
 
             <!-- scroll up-->

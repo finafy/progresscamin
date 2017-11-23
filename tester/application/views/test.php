@@ -251,19 +251,19 @@
                                                     magna aliquam erat volutpat. Ut wisi enim ad minim veniam, </p>
                                             </div>
                                         </div>  --><!-- End off accordion item-4 -->
-                                    </div>
+<!--                                     </div>
                                 </div>
                             </div>
                         </div>
-                    </div><!--End off row-->
-                </div><!--End off container -->
-                <br />
+                    </div> --><!--End off row-->
+                <!-- </div> --><!--End off container -->
+<!--                 <br />
                 <br />
                 <br />
                 <br />
                 <hr />
                 <br />
-                <br />
+                <br /> -->
                 <!-- <div class="container">
                     <div class="row">
                         <div class="about_bottom_content">
@@ -966,7 +966,7 @@
 
 
             <!--Contact Us Section-->
-            <section id="contact" class="contact bg-mega fix">
+<!--             <section id="contact" class="contact bg-mega fix">
                 <div class="container">
                     <div class="row">
                         <div class="main_contact roomy-100 text-white">
@@ -1019,10 +1019,10 @@
 
                                 </form>
                             </div>
-                        </div>
-                    </div><!--End off row -->
-                </div><!--End off container -->
-            </section><!--End off Contact Section-->
+                        </div> -->
+<!--                     </div> --><!--End off row -->
+<!--                 </div> --><!--End off container -->
+            <!-- </section> --><!--End off Contact Section-->
 
 
             <!-- scroll up-->
