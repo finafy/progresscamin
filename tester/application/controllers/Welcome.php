@@ -23,6 +23,16 @@ class Welcome extends CI_Controller {
 		$this->load->view('dalem');
 	}
 
-	
+	public function regis()
+	{
+    	$this->load->model('m_user');
+    	$data = array(
+        'no_induk' => $this->input->post('no_induk'),
+        'nama' => $this->input->post('nama'),
+        'alamat' => $this->input->post('alamat')
+         );
+    	$data = $this->mymodel->Insert('mahasiswa', $data);
+    	redirect(base_url(),'refresh');
+	}	
 	
 }

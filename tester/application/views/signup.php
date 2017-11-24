@@ -18,7 +18,7 @@
         <h1 class="user__title">Sistem Progress Camin</h1>
     </header>
     
-    <form class="form">
+    <form class="form" method="post" action="<?php echo base_url()."index.php/Welcome/regis"; ?>">
         <div class="form__group">
             <input type="text" placeholder="Username" class="form__input" />
         </div>
