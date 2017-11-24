@@ -35,9 +35,17 @@ class Mymodel extends CI_Model
 	public function Delete($table, $where)
 	{
 		// untuk delete record yang sudah ada
+		// $where itu nama atributnya
 		$res = $this->db->delete($table, $where);
 
 		return $res;
+	}
+
+	public function GetWhere($table, $data)
+	{
+    	$res=$this->db->get_where($table, $data);
+    
+    	return $res->result_array();
 	}
 }
 
