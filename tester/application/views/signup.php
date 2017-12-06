@@ -18,31 +18,41 @@
         <h1 class="user__title">Sistem Progress Camin</h1>
     </header>
     
-    <form class="form" method="post" action="<?php echo base_url()."index.php/Welcome/regis"; ?>">
+    <form class="form" method="post" action="<?php echo base_url()."index.php/Welcome/insert_new_user"; ?>">
         <div class="form__group">
-            <input type="text" placeholder="Username" class="form__input" />
+
+            <input type="text" placeholder="Username" name="Username" class="form__input" />
         </div>
         
         <div class="form__group">
-            <input type="email" placeholder="Email" class="form__input" />
+            <input type="email" placeholder="Email" name="Email" class="form__input" />
         </div>
 
          <div class="form__group">
-            <input type="NRP" placeholder="NRP" class="form__input" />
+            <input type="text" placeholder="NRP" name="NRP" class="form__input" />
         </div>
 
         <div class="form__group">
-            <select id="status" name="status" class="form__input">
-              <option value="admin">Calon Admin</option>
-              <option value="camin">Admin</option>
+            <select id="status" name="Status" class="form__input">
+              <option value="camin">Calon Admin</option>
+              <option value="admin">Admin</option>
             </select>
         </div>
 
         <div class="form__group">
-            <input type="password" placeholder="Password" class="form__input" />
+            <input type="password" placeholder="Password" name="Pass" class="form__input" />
         </div>
         
-        <button class="btn" type="button"><a href="<?php echo base_url()?>welcome/coba"/a>Register</button>
+        <!-- <button class="btn" type="button"><a href="<?php echo base_url()?>welcome/coba"/a>Register</button> -->
+
+  <tr>
+
+    <th align="right" scope="row">&nbsp;</th>
+
+    <td><input type="submit" name="submit" value="Send" /></td>
+
+  </tr>
+
     </form>
 </div>
   <script src='http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
